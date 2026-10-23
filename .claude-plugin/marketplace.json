@@ -1,0 +1,5 @@
+{
+  "name": "quick-keys",
+  "owner": { "name": "Kevin Tang" },
+  "plugins": [{ "name": "quick-keys", "source": "./" }]
+}

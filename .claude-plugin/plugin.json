@@ -1,0 +1,6 @@
+{
+  "name": "quick-keys",
+  "version": "0.2.0",
+  "description": "A band above the prompt with number-key shortcuts for your usual commands, edited in a pane",
+  "types": "./types/index.d.ts"
+}
