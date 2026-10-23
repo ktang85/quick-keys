@@ -1,10 +1,16 @@
 # quick-keys
 
+[English](README.md) · [简体中文](README.zh-CN.md)
+
 A Claude Code mod that draws a row of number-key shortcuts just above the prompt
 box. Press `1` from an empty prompt and `/code-review ` is typed in for you;
 press the one bound to `submit` and it sends a whole turn on its own. The
 shortcuts are yours to change: `/keys` opens a pane where you add, retype, flip
 or remove each one, and what you set is kept across sessions.
+
+[![Watch the intro and install guide](docs/intro-poster.png)](https://github.com/ktang85/quick-keys/raw/main/docs/intro-en.mp4)
+
+> Click the image to watch (32s, narrated and subtitled), or [download it directly](https://github.com/ktang85/quick-keys/raw/main/docs/intro-en.mp4).
 
 It ships with four, which you are meant to replace:
 
