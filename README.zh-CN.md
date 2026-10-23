@@ -7,9 +7,9 @@
 这些快捷方式都可以改：`/keys` 会打开一个面板，在里面增删、改写、翻转每一项，
 改完的内容跨会话保留。
 
-[![看介绍与安装视频](docs/intro-poster.png)](https://github.com/ktang85/quick-keys/raw/main/docs/intro-zh.mp4)
+[![看介绍与安装视频](docs/intro-preview.gif)](https://github.com/ktang85/quick-keys/blob/main/docs/intro-zh.mp4)
 
-> 点上面的图看视频（29 秒，带旁白与字幕）。也可以[直接下载](https://github.com/ktang85/quick-keys/raw/main/docs/intro-zh.mp4)。
+> 上面是 4 秒无声预览。点它看完整视频（29 秒，带旁白与字幕），或[下载文件](https://github.com/ktang85/quick-keys/raw/main/docs/intro-zh.mp4)。
 
 自带四个，就是让你替换的：
 

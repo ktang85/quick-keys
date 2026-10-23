@@ -8,9 +8,9 @@ press the one bound to `submit` and it sends a whole turn on its own. The
 shortcuts are yours to change: `/keys` opens a pane where you add, retype, flip
 or remove each one, and what you set is kept across sessions.
 
-[![Watch the intro and install guide](docs/intro-poster.png)](https://github.com/ktang85/quick-keys/raw/main/docs/intro-en.mp4)
+[![Watch the intro and install guide](docs/intro-preview.gif)](https://github.com/ktang85/quick-keys/blob/main/docs/intro-en.mp4)
 
-> Click the image to watch (32s, narrated and subtitled), or [download it directly](https://github.com/ktang85/quick-keys/raw/main/docs/intro-en.mp4).
+> The clip above is a silent 4s preview. Click it for the full 32s video with narration and subtitles, or [download the file](https://github.com/ktang85/quick-keys/raw/main/docs/intro-en.mp4).
 
 It ships with four, which you are meant to replace:
 
