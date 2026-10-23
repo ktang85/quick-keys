@@ -1,0 +1,23 @@
+1
+00:00:00,350 --> 00:00:04,650
+quick-keys puts number-key shortcuts right above your Claude Code prompt.
+
+2
+00:00:05,250 --> 00:00:09,850
+Press one from an empty prompt, and slash code-review is typed in for you.
+
+3
+00:00:10,450 --> 00:00:15,150
+Fill leaves the text for you to finish. Submit sends the turn on its own.
+
+4
+00:00:15,750 --> 00:00:20,200
+Install it with one command, pointing at the marketplace in this repo.
+
+5
+00:00:20,800 --> 00:00:26,900
+Run slash keys to edit them. One line binds a digit, a kind, a label, and the text.
+
+6
+00:00:27,500 --> 00:00:31,950
+MIT licensed. The four it ships with are meant to be replaced.
